@@ -1,4 +1,4 @@
-module example.com/fun
+module github.com/mhandugan/kms-signed-gcs-urls
 
 go 1.17
 
